@@ -1,0 +1,9 @@
+{
+  "name": "sanelog",
+  "version": "0.0.2",
+  "description": "Sane log aggregation. SDK coming soon — see sanelog.com",
+  "repository": "github:sanelog/sanelog-js",
+  "homepage": "https://sanelog.com",
+  "bin": { "sanelog": "./cli.js" },
+  "license": "MIT"
+}
